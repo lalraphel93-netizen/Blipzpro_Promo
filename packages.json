@@ -107,6 +107,6 @@
       "api": true
     },
     "price": 2499,
-    "enabled": true
+    "enabled": false
   }
 ]
