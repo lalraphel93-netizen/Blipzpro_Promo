@@ -2,54 +2,99 @@
   {
     "key": "WA Only | 3 Months",
     "group": "WA Only",
+    "features": {
+      "wa": true,
+      "sms": false,
+      "api": false
+    },
     "price": 2499,
     "enabled": true
   },
   {
     "key": "WA Only | Annual",
     "group": "WA Only",
+    "features": {
+      "wa": true,
+      "sms": false,
+      "api": false
+    },
     "price": 7599,
     "enabled": true
   },
   {
     "key": "WA Only | Lifetime",
     "group": "WA Only",
+    "features": {
+      "wa": true,
+      "sms": false,
+      "api": false
+    },
     "price": 18999,
     "enabled": true
   },
   {
     "key": "SMS Only | 3 Months",
     "group": "SMS Only",
+    "features": {
+      "wa": false,
+      "sms": true,
+      "api": false
+    },
     "price": 1999,
     "enabled": true
   },
   {
     "key": "SMS Only | Annual",
     "group": "SMS Only",
+    "features": {
+      "wa": false,
+      "sms": true,
+      "api": false
+    },
     "price": 5999,
     "enabled": true
   },
   {
     "key": "SMS Only | Lifetime",
     "group": "SMS Only",
+    "features": {
+      "wa": false,
+      "sms": true,
+      "api": false
+    },
     "price": 14999,
     "enabled": true
   },
   {
     "key": "WA + SMS | 3 Months",
     "group": "WA + SMS",
+    "features": {
+      "wa": true,
+      "sms": true,
+      "api": false
+    },
     "price": 3499,
     "enabled": true
   },
   {
     "key": "WA + SMS | Annual",
     "group": "WA + SMS",
+    "features": {
+      "wa": true,
+      "sms": true,
+      "api": false
+    },
     "price": 9999,
     "enabled": true
   },
   {
     "key": "WA + SMS | Lifetime",
     "group": "WA + SMS",
+    "features": {
+      "wa": true,
+      "sms": true,
+      "api": false
+    },
     "price": 24999,
     "enabled": true
   }
