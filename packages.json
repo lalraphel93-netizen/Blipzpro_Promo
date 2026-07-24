@@ -21,36 +21,36 @@
     "key": "SMS Only | 3 Months",
     "group": "SMS Only",
     "price": 1999,
-    "enabled": false
+    "enabled": true
   },
   {
     "key": "SMS Only | Annual",
     "group": "SMS Only",
     "price": 5999,
-    "enabled": false
+    "enabled": true
   },
   {
     "key": "SMS Only | Lifetime",
     "group": "SMS Only",
     "price": 14999,
-    "enabled": false
+    "enabled": true
   },
   {
     "key": "WA + SMS | 3 Months",
     "group": "WA + SMS",
     "price": 3499,
-    "enabled": false
+    "enabled": true
   },
   {
     "key": "WA + SMS | Annual",
     "group": "WA + SMS",
     "price": 9999,
-    "enabled": false
+    "enabled": true
   },
   {
     "key": "WA + SMS | Lifetime",
     "group": "WA + SMS",
     "price": 24999,
-    "enabled": false
+    "enabled": true
   }
 ]
