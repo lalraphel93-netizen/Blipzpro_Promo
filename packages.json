@@ -97,5 +97,16 @@
     },
     "price": 24999,
     "enabled": true
+  },
+  {
+    "key": "WA + API | 3 Months",
+    "group": "WA + API",
+    "features": {
+      "wa": true,
+      "sms": false,
+      "api": true
+    },
+    "price": 2499,
+    "enabled": true
   }
 ]
