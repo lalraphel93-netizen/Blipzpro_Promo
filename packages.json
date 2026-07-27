@@ -8,7 +8,7 @@
       "api": false
     },
     "price": 2499,
-    "enabled": true
+    "enabled": false
   },
   {
     "key": "WA Only | Annual",
@@ -19,7 +19,7 @@
       "api": false
     },
     "price": 7599,
-    "enabled": true
+    "enabled": false
   },
   {
     "key": "WA Only | Lifetime",
@@ -30,7 +30,7 @@
       "api": false
     },
     "price": 18999,
-    "enabled": true
+    "enabled": false
   },
   {
     "key": "SMS Only | 3 Months",
@@ -74,7 +74,7 @@
       "api": false
     },
     "price": 3499,
-    "enabled": true
+    "enabled": false
   },
   {
     "key": "WA + SMS | Annual",
@@ -85,7 +85,7 @@
       "api": false
     },
     "price": 9999,
-    "enabled": true
+    "enabled": false
   },
   {
     "key": "WA + SMS | Lifetime",
@@ -96,6 +96,6 @@
       "api": false
     },
     "price": 24999,
-    "enabled": true
+    "enabled": false
   }
 ]
