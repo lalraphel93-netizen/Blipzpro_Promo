@@ -1,9 +1,5 @@
 {
-  "BPBM-1": {
-    "t": "bonus",
-    "v": 1
-  },
-  "BPBOOM-10": {
+  "TESTDISCOUNT10": {
     "t": "pct",
     "v": 10
   }
